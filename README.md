@@ -1,1 +1,1 @@
-# -Conversational-RAG-app
+# Conversational-RAG-app
